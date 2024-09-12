@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+#party-list {
+    margin-bottom: 20px;
+}
+.party {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.delete-btn {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+}
+form {
+    margin-top: 20px;
+}
+form input, form textarea {
+    display: block;
+    margin-bottom: 10px;
+}
